@@ -1,15 +1,17 @@
 ## Features
 
-It helps with if statements :)
+Random help with JS.
+
+The only command at the moment is "Write me a switch case with <number> cases".
 
 ## Known Issues
 
-It triggers the second you finish that second f
+Not reliable
 
 ## Release Notes
 
 ### 1.0.0
 
-Initial release of thos extension
+Initial release of this extension
 
 **Enjoy!**
